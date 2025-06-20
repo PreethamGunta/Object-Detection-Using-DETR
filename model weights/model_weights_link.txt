@@ -1,0 +1,2 @@
+Link to the model weights after training for 38 epochs, approx. 52 hours:
+https://drive.google.com/file/d/1POtE8dxJKBWiSpI2XYajnj44QspqjPSN/view?usp=sharing
